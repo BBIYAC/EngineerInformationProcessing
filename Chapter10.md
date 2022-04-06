@@ -20,3 +20,29 @@ Throughput, Response Time, Seek Time, Turnaround Time, Resource Usage, Performan
 
 </div>
 </details>
+</br>
+
+**2. 다음은 테스트에 대한 설명이다. 괄호(   ) 안에 들어갈 테스트의 유형을 보기에서 골라 쓰시오.**
+
+```
+• (        ①       ) : 오류를 제거하거나 수정한 시스템에서 오류 제거와 수정에 의해 새로이 유입된 오류가 없는지 확인하는 일종의 반복 테스트 기법.
+
+• (        ②       ) : 짧은 시간에 사용자가 몰릴 때 시스템의 반응을 측정하는 테스트 기법.
+```
+| 보기 |
+```
+
+Recovery Testing, Security Testing, Generalization, Structure Testing, Regression Testing, Stress Testing, Spike Testing
+```
+
+<details>
+<summary><b>정답 확인</b></summary>
+<div markdown="1">
+
+① Regression Testing
+
+② Spike Testing
+
+</div>
+</details>
+</br>
