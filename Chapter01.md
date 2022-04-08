@@ -4,9 +4,25 @@
 <details>
 <summary><b>정답 확인</b></summary>
 <div markdown="1">
-<br></br>
 
 LOC(Lines of Code) 기법
 
 </div>
 </details>
+</br>
+
+**2. 다음은 UML의 관계(Relationships)를 나타내는 그림이다. 해당 그림에 가장 올바른 "관계의 유형"을 쓰시오.**
+
+![](https://cafeptthumb-phinf.pstatic.net/MjAyMjA0MDhfMTUx/MDAxNjQ5Mzk1MzcyMDEz.07OyqC5f0qBNitcPdn6DgnKp-e1lhHBZ_2JUIRcIBXQg.hhm1hIgptwW6v6WXSZWKyrqvZVigecVXKF5w7ErgZOQg.PNG/image.png?type=w1600)
+
+<details>
+<summary><b>정답 확인</b></summary>
+<div markdown="1">
+
+① 집합(Aggregation)
+
+② 실체화(Realization)
+
+</div>
+</details>
+</br>
