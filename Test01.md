@@ -33,7 +33,7 @@ public class Test {
 <summary><b>정답 확인</b></summary>
 <div markdown="1">
 
-1
+3
 
 </div>
 </details>
@@ -47,7 +47,7 @@ public class Test {
 <summary><b>정답 확인</b></summary>
 <div markdown="1">
 
-ㅁㄹ
+ARP(Address Resolution Protocol)
 
 </div>
 </details>
@@ -58,7 +58,7 @@ public class Test {
 <summary><b>정답 확인</b></summary>
 <div markdown="1">
 
-사용자에게 데이터 생성, 조회, 삭제, 수정의 권한을 부여하는 기능이 있습니다.
+GRANT는 데이터베이스 관리자가 데이터베이스 사용자에게 권한을 부여하는 데 사용하는 명령어이다.
 
 </div>
 </details>
@@ -81,7 +81,7 @@ Application Authentication  Avalanche   Authorization   Accounting  Ascii
 
 1. Authentication
 2. Authorization
-3. Application
+3. Accounting
 
 </div>
 </details>
@@ -99,7 +99,7 @@ Singleton   Abstract Factory    Factory Method  Prototype   Facade  Composite   
 <summary><b>정답 확인</b></summary>
 <div markdown="1">
 
-Template Method
+Factory Method
 
 </div>
 </details>
@@ -137,7 +137,7 @@ int main(){
 <summary><b>정답 확인</b></summary>
 <div markdown="1">
 
-ㅁㄹ
+501
 
 </div>
 </details>
@@ -153,8 +153,8 @@ int main(){
 <summary><b>정답 확인</b></summary>
 <div markdown="1">
 
-1. 드라이브(Drive)
-2. ㅁㄹ
+1. 상향식 통합 테스트
+2. 테스트 드라이버(Test Driver)
 
 </div>
 </details>
@@ -198,7 +198,7 @@ SELECT COUNT(*) CNT CROM A CROSS JOIN B WHERE A.NAME LIKE B.RULE;
 <summary><b>정답 확인</b></summary>
 <div markdown="1">
 
-2
+4
 
 </div>
 </details>
@@ -212,7 +212,7 @@ SELECT COUNT(*) CNT CROM A CROSS JOIN B WHERE A.NAME LIKE B.RULE;
 <summary><b>정답 확인</b></summary>
 <div markdown="1">
 
-ㅁㄹ
+색인(Index)
 
 </div>
 </details>
@@ -233,8 +233,8 @@ SELECT COUNT(*) CNT CROM A CROSS JOIN B WHERE A.NAME LIKE B.RULE;
 <summary><b>정답 확인</b></summary>
 <div markdown="1">
 
-1. 요구 절차
-2. 테스트 조건
+1. 테스트 조건
+2. 테스트 데이터
 3. 예상 결과
 
 </div>
@@ -266,9 +266,9 @@ OSI 7 Layer는 다른 시스템 간의 원활한 통신을 위해 ISO(국제표�
 <summary><b>정답 확인</b></summary>
 <div markdown="1">
 
-1. 전송(Transport) 계층
+1. 데이터 링크(Data Link) 계층
 2. 네트워크(Network) 계층
-3. 물리 계층 
+3. 표현(Presentation) 계층 
 
 </div>
 </details>
@@ -279,7 +279,7 @@ OSI 7 Layer는 다른 시스템 간의 원활한 통신을 위해 ISO(국제표�
 <summary><b>정답 확인</b></summary>
 <div markdown="1">
 
-RSA
+DES(Data Encryption Standard)
 
 </div>
 </details>
@@ -301,7 +301,7 @@ int main(){
 <summary><b>정답 확인</b></summary>
 <div markdown="1">
 
-25
+37
 
 </div>
 </details>
@@ -349,7 +349,7 @@ Equivalence Partition   Boundary Value Analysis Condition Test  Cause-Effect Gra
 <summary><b>정답 확인</b></summary>
 <div markdown="1">
 
-Loop Test
+Cause-Effect Graph
 
 </div>
 </details>
@@ -360,7 +360,7 @@ Loop Test
 <summary><b>정답 확인</b></summary>
 <div markdown="1">
 
-GUI(Graphic User Interface)
+GUI(Graphical User Interface)
 
 </div>
 </details>
