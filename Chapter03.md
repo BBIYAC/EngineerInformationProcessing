@@ -10,9 +10,25 @@
 <details>
 <summary><b>정답 확인</b></summary>
 <div markdown="1">
-<br></br>
 
 진행 테이블
 
 </div>
 </details>
+</br>
+
+**2. 관계 데이터베이스의 정규화에 대한 설명이다. 괄호(         ) 안에 들어갈 용어를 쓰시오.**
+```
+- 어떤 릴레이션에 R이 (          ①         )이고, 릴레이션의 키가 아닌 속성 모두가 R의 어떤 키에도 이행적 함수 종속이 아닐 때 R은 (         ②         )에 속한다.
+```
+
+<details>
+<summary><b>정답 확인</b></summary>
+<div markdown="1">
+
+1. 2NF(2차 정규화)
+2. 3NF(3차 정규화)
+
+</div>
+</details>
+</br>
