@@ -9,9 +9,29 @@
 <details>
 <summary><b>정답 확인</b></summary>
 <div markdown="1">
-<br></br>
 
 소켓(Socket)
 
 </div>
 </details>
+</br>
+
+
+**2. 다음은 주요 연계 기술에 대한 설명이다. 괄호(       ) 안에 들어갈 용어를 쓰시오.**
+```
+- 직접 연계 방식 중 DB 연결 방식은 수신 시스템의 WAS에서 송신 시스템 DB로 연결하는 DB (         ①       )을/를 생성하고 연계 프로그램에서 해당 DB (         ①       ) 명을 이용하여 연결하는 방식이다.
+​
+
+- (        ②        ) 기법은 데이터베이스에서 자료를 조회하거나 업데이트하기 위해서 자바에서 데이터베이스에 접속할 수 있도록 하는 자바 API이다. 수신 시스템의 프로그램에서 (        ②        ) 드라이버를 이용하여 송신 시스템 DB와 연결할 수 있다.
+```
+
+<details>
+<summary><b>정답 확인</b></summary>
+<div markdown="1">
+
+1. 커넥션 풀(Connection Pool)
+2. JDBC(Java DataBase Connectivity)
+
+</div>
+</details>
+</br>
