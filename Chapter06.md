@@ -21,9 +21,34 @@ void main( ){
 <details>
 <summary><b>정답 확인</b></summary>
 <div markdown="1">
-<br></br>
 
 3.50
 
 </div>
 </details>
+</br>
+
+**2. 다음은 파이썬 프로그램이다. 실행결과를 쓰시오.**
+```
+li = ['Korea', 'America', 'China']
+a=0
+str01 = ''
+
+for i in li:
+   for j in i:
+      str01 += j[0]
+      a = a + 1
+      if a > 5:
+         break
+
+print('a :', a, ', str01 :', str01)​
+```
+<details>
+<summary><b>정답 확인</b></summary>
+<div markdown="1">
+
+a : 7, str01 : KoreaAC
+
+</div>
+</details>
+</br>
