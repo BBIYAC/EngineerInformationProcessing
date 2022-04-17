@@ -396,3 +396,16 @@ ORDER BY 부서번호 DESC, 급여 (ASC);
 </div>
 </details>
 </br>
+
+**21. (        ①        )은/는 소프트웨어 개발을 위한 전체 과정에서 발생하는 모든 항목의 변경 사항을 관리하기 위한 활동이다. 또한, (        ②        )은/는 개발 과정의 각 단계의 산출물을 검토, 평가, 조정, 처리 등 변화를 통제하는 시점의 기준으로 ​(        ①        )의 대표적인 처리 기준을 제공해준다. 괄호(       ) 안에 들어갈 용어를 쓰시오.**
+
+<details>
+<summary><b>정답 확인</b></summary>
+<div markdown="1">
+
+① 형상관리(Configuration Management)
+② 베이스라인(Baseline)
+
+</div>
+</details>
+</br>
