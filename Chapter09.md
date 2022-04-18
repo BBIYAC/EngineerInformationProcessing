@@ -35,9 +35,27 @@
 <details>
 <summary><b>정답 확인</b></summary>
 <div markdown="1">
-<br></br>
 
 허니팟(Honeypot)
+
+</div>
+</details>
+</br>
+
+**3. 다음은 DoS 공격에 대한 설명이다. 괄호(      ) 안에 들어갈 용어를 쓰시오.**
+```
+(          ①         ) 공격은 정상 크기보다 큰 ICMP 패킷을 작은 조각(Fragment)으로 쪼개어 공격 대상이 조각화된 패킷을 처리하게 만드는 공격 방법이다.
+
+(          ②         )은/는 패킷 전송 시 출발지 IP 주소와 목적지 IP 주솟값을 똑같이 만들어서 공격 대상에게 보내는 공격 방법이다.
+```
+
+<details>
+<summary><b>정답 확인</b></summary>
+<div markdown="1">
+
+① 죽음의 핑(PoD; Ping of Death) 
+
+② 랜드 어택(Land Attack)
 
 </div>
 </details>
