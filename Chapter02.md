@@ -30,7 +30,27 @@
 <div markdown="1">
 
 ① NUI(Natural User Interface)
+
 ② 유연성(Flexibility)
+
+</div>
+</details>
+</br>
+
+**3. 다음은 클래스 다이어그램(Class Diagram)에 대한 설명이다. 괄호(     ) 안에 들어갈 용어를 쓰시오.**
+```
+- 클래스 다이어그램의 구성 요소 중 (          ①        ) 은/는 클래스의 구조적 특성에 이름을 붙인 것으로 특성에 해당하는 인스턴스가 보유할 수 있는 값의 범위를 기술한 것이다.
+
+​​- 클래스 다이어그램의 접근 제어자 중 (​       ②      )은/는 동일 패키지/파생 클래스에서 접근 가능(protected)함을 표현할 때 사용한다.
+```
+
+<details>
+<summary><b>정답 확인</b></summary>
+<div markdown="1">
+
+① 속성(Attribute)
+
+② #
 
 </div>
 </details>
