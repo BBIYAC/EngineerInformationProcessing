@@ -30,7 +30,27 @@
 <div markdown="1">
 
 1. 커넥션 풀(Connection Pool)
+
 2. JDBC(Java DataBase Connectivity)
+
+</div>
+</details>
+</br>
+
+**3. 아래는 주요 연계 기술에 대한 설명이다. 괄호( ) 안에 들어갈 용어를 쓰시오.**
+```
+- (           ①         )은/는 직접 연계 기술 중 하나로 응용 프로그램에서 사용할 수 있도록, 운영체제나 프로그래밍 언어가 제공하는 기능을 제어할 수 있게 만든 인터페이스이고, 응용프로그램에서 데이터를 주고받기 위한 방법을 의미한다.
+
+- (           ②         )은/는  간접 연계 기술 중 하나로 네트워크를 경유하는 프로세스 간 통신의 접속점으로 클라이언트와 서버 프로그램 사이에 데이터를 송수신할 수 있는 기술이다.
+```
+
+<details>
+<summary><b>정답 확인</b></summary>
+<div markdown="1">
+
+1. API(Application Programming Interface)
+
+2. 소켓(Socket)
 
 </div>
 </details>
