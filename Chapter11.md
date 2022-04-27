@@ -76,7 +76,7 @@
 </details>
 </br>
 
-**05. 다음에서 설명하는 IT 기술을 쓰시오.**
+**5. 다음에서 설명하는 IT 기술을 쓰시오.**
 ```
 - 기존의 라우터, 스위치 등과 같이 하드웨어에 의존하는 네트워크 체계에서 안정성, 속도, 보안 등을 소포트웨어로 제어, 관리하기 위해 개발된 기술
 
@@ -90,6 +90,24 @@
 <div markdown="1">
 
 SDN(Software Defined Networking)
+
+</div>
+</details>
+</br>
+
+**6. 다음에서 설명하는 라우팅 프로토콜을 쓰시오.**
+```
+- AS 내에서 사용하는 거리 벡터(Distance-Vector) 알고리즘에 기초하여 개발된 내부 라우팅 프로토콜
+
+- 경로 선택 매트릭은 홉 카운트(Hop Count)이고, 최단 경로 탐색에 Bellman-Ford 알고리즘을 사용
+
+- 각 라우터는 이웃 라우터들로부터 수신한 정보를 이용하여 라우팅 표를 갱신
+```
+<details>
+<summary><b>정답 확인</b></summary>
+<div markdown="1">
+
+RIP(Routing Information Protocol)
 
 </div>
 </details>
