@@ -81,3 +81,28 @@
 </div>
 </details>
 </br>
+
+**5. 다음은 접근 통제 관련 내용이다. 괄호()안에 들어갈 용어를 보기에서 골라서 쓰시오.**
+```
+- (        ①        ) : 객체나 객체 내의 데이터에 대한 접근을 요청하는 능동적인 개체(행위자)
+
+- (        ②        ) : 자신의 신원을 시스템에 증명하는 과정이며 아이디와 패스워드를 입력하는 과정이 가장 일반적인 예시라고 볼 수 있다.
+
+- (        ③        ) : 중앙 관리자가 사용자와 시스템의 상호관계를 통제하며 조직 내 맡은 역할에 기초하여 자원에 대한 접근을 제한하는 방법
+```
+```
+[보기]
+Subject, Object, Access, Identification, Authentication, Authorization, DAC, MAC, RBAC
+```
+
+<details>
+<summary><b>정답 확인</b></summary>
+<div markdown="1">
+
+1. Subject
+2. Authentication
+3. RBAC
+
+</div>
+</details>
+</br>
