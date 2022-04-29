@@ -106,3 +106,21 @@ Subject, Object, Access, Identification, Authentication, Authorization, DAC, MAC
 </div>
 </details>
 </br>
+
+**6. 다음은 보안 암호 알고리즘에 대한 설명이다. 괄호(      ) 안에 들어갈 암호화 알고리즘 종류를 쓰시오.**
+```
+- (      ①      ) : 국내 한국인터넷진흥원(KISA)이 개발한 블록 암호화 알고리즘으로 128bit 비밀키로부터 생성된 16개의 64bit 라운드 키를 사용하여 총 16회의 라운드를 거쳐 128bit 암호문 블록으로 암호화하는 대칭키 알고리즘
+
+- (      ②      ) : 유한체 위에서 정의된 타원곡선 군에서의 이산대수 문제에 기초한 암호화 알고리즘으로 RSA보다 키의 비트 수를 적게하면서 동일한 성능을 제공하는 하는 비대칭키 암호화 알고리즘
+```
+
+<details>
+<summary><b>정답 확인</b></summary>
+<div markdown="1">
+
+1. SEED
+2. ECC(Elliptic Curve Cryptography)
+
+</div>
+</details>
+</br>
