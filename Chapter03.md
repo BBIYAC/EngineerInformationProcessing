@@ -52,3 +52,15 @@
 </div>
 </details>
 </br>
+
+**4. 데이터 모델의 구성요소 중 데이터 구조에 따라 개념 세계나 컴퓨터 세계에서 실제로 표현된 값들을 처리하는 작업을 의미하는 것은 무엇인가?**
+
+<details>
+<summary><b>정답 확인</b></summary>
+<div markdown="1">
+
+연산(Operation)
+
+</div>
+</details>
+</br>
