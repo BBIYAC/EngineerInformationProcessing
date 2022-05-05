@@ -55,3 +55,15 @@
 </div>
 </details>
 </br>
+
+**4. UI 유형 중 현실에 존재하는 모든 사물이 입출력장치로 변화할 수 있는 사용자 인터페이스를 무엇이라고 하는가?**
+
+<details>
+<summary><b>정답 확인</b></summary>
+<div markdown="1">
+
+OUI(Organic User Interface)
+
+</div>
+</details>
+</br>
