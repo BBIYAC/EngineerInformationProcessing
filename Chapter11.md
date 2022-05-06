@@ -112,3 +112,22 @@ RIP(Routing Information Protocol)
 </div>
 </details>
 </br>
+
+**7. 다음은 신기술 용어이다. 괄호(      ) 안에 들어갈 용어를 쓰시오.**
+```
+- (       ①       )은/는 블록체인 기술을 이용해서 디지털 자산의 소유주를 증명하는 가상의 토큰(token)이다.
+
+- (       ②       )은/는 초월을 의미하는 단어와 세계, 우주를 의미하는 단어를 합성한 신조어로 현실을 디지털 기반의 가상 세계로 확장해 가상 공간에서 모든 활동을 할 수 있게 만드는 시스템이다.
+```
+
+<details>
+<summary><b>정답 확인</b></summary>
+<div markdown="1">
+
+① 대체 불가능한 토큰(Non-fungible token)
+
+② 메타버스(metaverse)
+
+</div>
+</details>
+</br>
